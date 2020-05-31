@@ -1,0 +1,10 @@
+
+Student ID: 2234
+Name: essfd
+Department Name: sce
+Email: djshdn
+Contact No: 45
+Address: fdgdf
+Amount: 345.0
+Gurdian Name: efads
+Gurdian Contact No: 34

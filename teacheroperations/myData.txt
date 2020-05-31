@@ -1,0 +1,8 @@
+
+Teacher ID: 2
+Name: 
+Department Name: d
+Email: s
+Contact No: d
+Address: sd
+Amount: 23.0
